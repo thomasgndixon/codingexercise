@@ -1,0 +1,10 @@
+com\example\codingexercise\config\GatewayConfig.class
+com\example\codingexercise\gateway\ProductServiceGateway.class
+com\example\codingexercise\gateway\dto\Product.class
+com\example\codingexercise\dto\CurrencyExchanger.class
+com\example\codingexercise\repository\PackageRepository.class
+com\example\codingexercise\service\CurrencyExchangeRateService.class
+com\example\codingexercise\config\CurrencyExchangeConfig.class
+com\example\codingexercise\CodingExerciseApplication.class
+com\example\codingexercise\controller\PackageController.class
+com\example\codingexercise\model\ProductPackage.class
